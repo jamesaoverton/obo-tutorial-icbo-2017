@@ -24,7 +24,7 @@ The Open Biological and Biomedical Ontologies (OBO) provide a suite of interoper
 
 Every ICBO conference welcomes new members into the community of ontology users and developers. This interactive tutorial contributes to the field of healthcare and life science ontologies by introducing these new members to the fundamental theory and practise of ontology use and development, with a special focus on data sharing.
 
-The tutorial content will be a thoroughly revised version of the material presented at previous ICBO conferences and freely available online at <https://github.com/jamesaoverton/obo-tutorial>. We will update the content with the latest improvements to our tools and best practises. By providing the material online, we help ICBO participants to prepare in advance, to refresh their memories later, and to continue learning about topics not covered in the half-day at ICBO 2017.
+The tutorial content will be a thoroughly revised version of the material presented at previous ICBO conferences and freely available (CC-By license) online at <https://github.com/jamesaoverton/obo-tutorial>. We will update the content with the latest improvements to our tools and best practises. By providing the material online, we help ICBO participants to prepare in advance, to refresh their memories later, and to continue learning about topics not covered in the half-day at ICBO 2017.
 
 ## 1. Names and Statements
 
